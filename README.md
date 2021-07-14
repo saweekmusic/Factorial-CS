@@ -20,4 +20,4 @@ sum *= i;
 
 #FUNDAMENTALS #ALGORITHMS #NUMBERS
 
-[Fcatorial CS](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train/csharp)
+[Factorial CS](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/train/csharp)
